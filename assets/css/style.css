@@ -334,8 +334,9 @@ h2 {
 #choice-dark-blue main > section:first-of-type {
     background-color: white;
     color : #0a066e;
-    padding-top:40%;
-    padding-left: 15%;
+    padding-top:auto;
+    padding-left: 2%;
+    padding-right:2%;
 }
 
 #choice-dark-blue main > section:last-of-type {
